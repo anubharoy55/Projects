@@ -1,4 +1,4 @@
-# Assignments
+#Projects
 Contains Solutions :
 
 PART 1 :
